@@ -1,4 +1,4 @@
-export function InOrbitIcon() {
+export default function InOrbitIcon() {
   return (
     <svg
       width="24"
